@@ -108,6 +108,21 @@ the film or TV-series from a pay site.
   players getting hooked and then paying to play the game with extra bonuses
   or at extra levels.
   
+### [Patent Protection and Innovation Over 150 Years](http://www.nber.org/papers/w8977.pdf)
+
+The paper seeks to understand the impact of the patent system on innovation by examining **shifts
+in the strength of patent protection** across sixty countries and a 150-year period. An examination of 177
+policy changes reveals that strengthening patent protection appears to have **few positive effects on patent
+applications** by entities in the country undertaking the policy change, whether filings in Great Britain or
+the nation making the policy change are considered. Cross-sectional analyses suggest that the impact of
+patent protection-enhancing shifts were greater in nations with weaker initial protection and greater
+economic development, consistent with economic theory.
+
+Once overall trends in patenting are adjusted for, the
+changes in patenting by residents of the country undertaking the policy change are
+negative, both in Great Britain and in the country itself. Subject to the caveats noted in
+the conclusion, this evidence suggests that **these policy changes did not spur innovation**. 
+  
 
   
 
