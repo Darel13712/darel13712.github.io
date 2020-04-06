@@ -7,6 +7,8 @@ exclude: true
 This page contains a list of datasets I find worth mentioning 
 because they are cool or are mentioned a lot in papers.
 
+You can download most of these with my [python package](https://darel13712.github.io/rs_datasets/).
+
 |                           Dataset                            | Users | Items | Interactions |                       Commentary                        |   Domain   | Year  |
 | :----------------------------------------------------------: | :---: | :---: | :----------: | :-----------------------------------------------------: | :--------: | :---: |
 |    [Million Song Dataset](http://millionsongdataset.com/)    |  1m   | 385k  |     48m      |                     Audio-features                      |   Music    | 2012  |
